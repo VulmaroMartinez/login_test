@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436372321001",
+    "project_id": "storageintdb",
+    "storage_bucket": "storageintdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436372321001:android:ae8af58e382ebffc25b678",
+        "android_client_info": {
+          "package_name": "com.example.login_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA64fs7-UjCzSbk5Py7ZuRIynwkJTNZ4og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
